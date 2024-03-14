@@ -313,3 +313,4 @@ C:\SynologyDrive\BBBaden\Informatiker EFZ\1. Lehrjahr\Module\320 - OOP\Code\320-
 C:\SynologyDrive\BBBaden\Informatiker EFZ\1. Lehrjahr\Module\320 - OOP\Code\320-OOP\Tests\obj\Debug\net8.0\Tests.genruntimeconfig.cache
 C:\SynologyDrive\BBBaden\Informatiker EFZ\1. Lehrjahr\Module\320 - OOP\Code\320-OOP\Tests\obj\Debug\net8.0\ref\Tests.dll
 C:\Users\andri\SynologyDrive\BBBaden\Informatiker EFZ\1. Lehrjahr\Module\320 - OOP\Code\320-OOP\Tests\obj\Debug\net8.0\Tests.csproj.Up2Date
+C:\Users\AM\SynologyDrive\BBBaden\Informatiker EFZ\1. Lehrjahr\Module\320 - OOP\Code\320-OOP\Tests\obj\Debug\net8.0\Tests.sourcelink.json

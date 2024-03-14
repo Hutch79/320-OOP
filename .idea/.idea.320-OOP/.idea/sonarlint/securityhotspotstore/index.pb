@@ -25,8 +25,6 @@ F
 LB/Domain/DbContext.cs,3\f\3f644b66f14f720a72edf7ab560373d38899107a
 =
 LB/Program.cs,c\8\c8829ac00fe57318c173d3c7269b786680973e62
-M
-LB/Application/GetCustomer.cs,c\7\c7c40cb92f763ea792aa289af8b69a2cb0a64fb6
 E
 Tests/GlobalUsings.cs,d\6\d60a5163f9b742f60c7907dfecf28095481bdd2c
 J
