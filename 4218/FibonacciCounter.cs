@@ -31,7 +31,6 @@ public class FibonacciCounter : SimpleCounter
         }
 
         _currentCount = b;
-        return 1;
         return b;
     }
 }
