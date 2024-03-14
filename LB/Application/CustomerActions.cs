@@ -3,10 +3,10 @@ using LB.Domain;
 
 namespace LB.Application;
 
-public class Customer
+public class CustomerActions
 {
     private IDbContext _dbContext;
-    public Customer(IDbContext dbContext)
+    public CustomerActions(IDbContext dbContext)
     {
         _dbContext = dbContext;
     }

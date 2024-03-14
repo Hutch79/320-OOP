@@ -9,6 +9,8 @@
       "Tests/1.0.0": {
         "dependencies": {
           "4218": "1.0.0",
+          "JetBrains.Annotations": "2023.3.0",
+          "LB": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.6.0",
           "coverlet.collector": "6.0.0",
           "xunit": "2.4.2",
@@ -19,6 +21,14 @@
         }
       },
       "coverlet.collector/6.0.0": {},
+      "JetBrains.Annotations/2023.3.0": {
+        "runtime": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {
+            "assemblyVersion": "4242.42.42.42",
+            "fileVersion": "2023.3.0.0"
+          }
+        }
+      },
       "Microsoft.CodeCoverage/17.6.0": {
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll": {
@@ -1025,6 +1035,11 @@
         "runtime": {
           "4218.dll": {}
         }
+      },
+      "LB/1.0.0": {
+        "runtime": {
+          "LB.dll": {}
+        }
       }
     }
   },
@@ -1040,6 +1055,13 @@
       "sha512": "sha512-tW3lsNS+dAEII6YGUX/VMoJjBS1QvsxqJeqLaJXub08y1FSjasFPtQ4UBUsudE9PNrzLjooClMsPtY2cZLdXpQ==",
       "path": "coverlet.collector/6.0.0",
       "hashPath": "coverlet.collector.6.0.0.nupkg.sha512"
+    },
+    "JetBrains.Annotations/2023.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PHfnvdBUdGaTVG9bR/GEfxgTwWM0Z97Y6X3710wiljELBISipSfF5okn/vz+C2gfO+ihoEyVPjaJwn8ZalVukA==",
+      "path": "jetbrains.annotations/2023.3.0",
+      "hashPath": "jetbrains.annotations.2023.3.0.nupkg.sha512"
     },
     "Microsoft.CodeCoverage/17.6.0": {
       "type": "package",
@@ -1658,6 +1680,11 @@
       "hashPath": "xunit.runner.visualstudio.2.4.5.nupkg.sha512"
     },
     "4218/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LB/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

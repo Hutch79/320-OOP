@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "yodDZbtX2N4U+ydW9qh9cgNwj3GrpcAlrKTx/UpFsprhbKMkePd2t1OpPSZeAFxIBf19lCx2YvD2+yKjerFnDQ==",
+  "dgSpecHash": "28wFZrU1vdxlKmn5194F0CvIUqTLgbPWDC5M0oLz7mfEa3GDzWFwKoTIbOOj5FgAjPLdnXHKUI63snNGHNOgpg==",
   "success": true,
   "projectFilePath": "C:\\Users\\AM\\SynologyDrive\\BBBaden\\Informatiker EFZ\\1. Lehrjahr\\Module\\320 - OOP\\Code\\320-OOP\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AM\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\AM\\.nuget\\packages\\jetbrains.annotations\\2023.3.0\\jetbrains.annotations.2023.3.0.nupkg.sha512",
     "C:\\Users\\AM\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
     "C:\\Users\\AM\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.0\\microsoft.net.test.sdk.17.6.0.nupkg.sha512",
     "C:\\Users\\AM\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

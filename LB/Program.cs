@@ -1,7 +1,6 @@
 ﻿using System.Data.Common;
 using LB.Application;
 using LB.Domain;
-using Customer = LB.Application.Customer;
 
 namespace LB;
 
@@ -12,10 +11,10 @@ public class Program
         DbContext dbContext = new();
         DataSeeder dataSeeder = new(dbContext);
         dataSeeder.Seed();
-        Console.Write("hui");
 
-        var customer = new Customer(dbContext);
-        customer.GetCustomer(1);
+        var customer = new CustomerActions(dbContext);
+        var kunde = customer.GetCustomer(1001);
+        Console.WriteLine($"Kunde: {kunde.Name}");
 
     }
 }

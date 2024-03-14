@@ -5,12 +5,12 @@ namespace LB.Application;
 
 public class DataSeeder
 {
-    private DbContext _dbContext;
+    private IDbContext _dbContext;
     /// <summary>
     /// 
     /// </summary>
     /// <param name="dbContext"></param>
-    public DataSeeder(DbContext dbContext)
+    public DataSeeder(IDbContext dbContext)
     {
         _dbContext = dbContext;
     }
@@ -22,9 +22,9 @@ public class DataSeeder
     {
         _dbContext.Customers = (new List<ICustomer>()
         {
-            new Domain.Customer() { Name = "Gianluca" },
-            new Domain.Customer() { Name = "Jendrik" },
-            new Domain.Customer() {Name = "Raphael"},
+            new Customer() { Name = "Gianluca" },
+            new Customer() { Name = "Jendrik" },
+            new Customer() {Name = "Raphael"},
         });
 
         _dbContext.Projects = (new List<IProject>()
