@@ -5586,23 +5586,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\AM\\.nuget\\packages\\": {},
+    "C:\\Users\\andri\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AM\\SynologyDrive\\BBBaden\\Informatiker EFZ\\1. Lehrjahr\\Module\\320 - OOP\\Code\\320-OOP\\Tests\\Tests.csproj",
+      "projectUniqueName": "C:\\Users\\andri\\RiderProjects\\320-OOP\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "C:\\Users\\AM\\SynologyDrive\\BBBaden\\Informatiker EFZ\\1. Lehrjahr\\Module\\320 - OOP\\Code\\320-OOP\\Tests\\Tests.csproj",
-      "packagesPath": "C:\\Users\\AM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AM\\SynologyDrive\\BBBaden\\Informatiker EFZ\\1. Lehrjahr\\Module\\320 - OOP\\Code\\320-OOP\\Tests\\obj\\",
+      "projectPath": "C:\\Users\\andri\\RiderProjects\\320-OOP\\Tests\\Tests.csproj",
+      "packagesPath": "C:\\Users\\andri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\andri\\RiderProjects\\320-OOP\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\AM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\andri\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5618,11 +5618,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\AM\\SynologyDrive\\BBBaden\\Informatiker EFZ\\1. Lehrjahr\\Module\\320 - OOP\\Code\\320-OOP\\4218\\4218.csproj": {
-              "projectPath": "C:\\Users\\AM\\SynologyDrive\\BBBaden\\Informatiker EFZ\\1. Lehrjahr\\Module\\320 - OOP\\Code\\320-OOP\\4218\\4218.csproj"
+            "C:\\Users\\andri\\RiderProjects\\320-OOP\\4218\\4218.csproj": {
+              "projectPath": "C:\\Users\\andri\\RiderProjects\\320-OOP\\4218\\4218.csproj"
             },
-            "C:\\Users\\AM\\SynologyDrive\\BBBaden\\Informatiker EFZ\\1. Lehrjahr\\Module\\320 - OOP\\Code\\320-OOP\\LB\\LB.csproj": {
-              "projectPath": "C:\\Users\\AM\\SynologyDrive\\BBBaden\\Informatiker EFZ\\1. Lehrjahr\\Module\\320 - OOP\\Code\\320-OOP\\LB\\LB.csproj"
+            "C:\\Users\\andri\\RiderProjects\\320-OOP\\LB\\LB.csproj": {
+              "projectPath": "C:\\Users\\andri\\RiderProjects\\320-OOP\\LB\\LB.csproj"
             }
           }
         }

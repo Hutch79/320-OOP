@@ -6,9 +6,7 @@ namespace LB.Application;
 public class DataSeeder
 {
     private IDbContext _dbContext;
-    /// <summary>
-    /// 
-    /// </summary>
+
     /// <param name="dbContext"></param>
     public DataSeeder(IDbContext dbContext)
     {
@@ -16,7 +14,7 @@ public class DataSeeder
     }
 
     /// <summary>
-    /// Creates demo database data
+    /// Creates demo database data in the given dbContext
     /// </summary>
     public void Seed()
     {

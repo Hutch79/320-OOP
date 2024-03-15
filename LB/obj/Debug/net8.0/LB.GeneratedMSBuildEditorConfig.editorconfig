@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LB
-build_property.ProjectDir = C:\Users\AM\SynologyDrive\BBBaden\Informatiker EFZ\1. Lehrjahr\Module\320 - OOP\Code\320-OOP\LB\
+build_property.ProjectDir = C:\Users\andri\RiderProjects\320-OOP\LB\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

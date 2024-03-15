@@ -28,3 +28,19 @@ C:\Users\AM\SynologyDrive\BBBaden\Informatiker EFZ\1. Lehrjahr\Module\320 - OOP\
 C:\Users\AM\SynologyDrive\BBBaden\Informatiker EFZ\1. Lehrjahr\Module\320 - OOP\Code\320-OOP\LB\obj\Debug\net8.0\LB.pdb
 C:\Users\AM\SynologyDrive\BBBaden\Informatiker EFZ\1. Lehrjahr\Module\320 - OOP\Code\320-OOP\LB\obj\Debug\net8.0\LB.genruntimeconfig.cache
 C:\Users\AM\SynologyDrive\BBBaden\Informatiker EFZ\1. Lehrjahr\Module\320 - OOP\Code\320-OOP\LB\obj\Debug\net8.0\ref\LB.dll
+C:\Users\andri\RiderProjects\320-OOP\LB\bin\Debug\net8.0\LB.exe
+C:\Users\andri\RiderProjects\320-OOP\LB\bin\Debug\net8.0\LB.deps.json
+C:\Users\andri\RiderProjects\320-OOP\LB\bin\Debug\net8.0\LB.runtimeconfig.json
+C:\Users\andri\RiderProjects\320-OOP\LB\bin\Debug\net8.0\LB.dll
+C:\Users\andri\RiderProjects\320-OOP\LB\bin\Debug\net8.0\LB.pdb
+C:\Users\andri\RiderProjects\320-OOP\LB\bin\Debug\net8.0\LB.xml
+C:\Users\andri\RiderProjects\320-OOP\LB\obj\Debug\net8.0\LB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andri\RiderProjects\320-OOP\LB\obj\Debug\net8.0\LB.AssemblyInfoInputs.cache
+C:\Users\andri\RiderProjects\320-OOP\LB\obj\Debug\net8.0\LB.AssemblyInfo.cs
+C:\Users\andri\RiderProjects\320-OOP\LB\obj\Debug\net8.0\LB.csproj.CoreCompileInputs.cache
+C:\Users\andri\RiderProjects\320-OOP\LB\obj\Debug\net8.0\LB.sourcelink.json
+C:\Users\andri\RiderProjects\320-OOP\LB\obj\Debug\net8.0\LB.dll
+C:\Users\andri\RiderProjects\320-OOP\LB\obj\Debug\net8.0\refint\LB.dll
+C:\Users\andri\RiderProjects\320-OOP\LB\obj\Debug\net8.0\LB.pdb
+C:\Users\andri\RiderProjects\320-OOP\LB\obj\Debug\net8.0\LB.genruntimeconfig.cache
+C:\Users\andri\RiderProjects\320-OOP\LB\obj\Debug\net8.0\ref\LB.dll
